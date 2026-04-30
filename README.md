@@ -18,7 +18,7 @@ A command-line web application security assessment tool that audits HTTP securit
 ## Installation
 
 ```bash
-git clone https://github.com/your-username/security-scanner.git
+git clone https://github.com/solosurge/security-scanner.git
 cd security-scanner
 
 python -m venv venv
